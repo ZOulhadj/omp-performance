@@ -1,0 +1,5 @@
+*.o
+*.tar
+.vscode/
+old_files/
+bin/
